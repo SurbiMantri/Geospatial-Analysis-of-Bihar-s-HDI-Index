@@ -16,6 +16,7 @@ The data was cleaned and standardized before being used in QGIS to ensure accura
 - 'do file.do' - Stata commands used to computed Education Index, Health Index, Wealth Index and HDI Index using the raw NFHS data
 - 'IAPR71FL.do' - Conatins the do file of the raw NFHS-4 data
 - `README.md` - This README file.
+- 'Bihar_Districts.shp' - shp file of the districts of Bihar
 
 ## Results
 The final map clearly shows the variation in HDI across Bihar's districts. 
